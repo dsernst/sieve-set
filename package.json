@@ -1,0 +1,29 @@
+{
+  "name": "sieve-set",
+  "version": "1.0.0",
+  "description": "Generate a Sieve of Eratosthenes with constant time lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsernst/sieve-set.git"
+  },
+  "keywords": [
+    "prime",
+    "sieve",
+    "primesieve",
+    "object",
+    "set",
+    "constant",
+    "eratosthenes",
+    "fast"
+  ],
+  "author": "David Ernst <npm@dsernst.com> (http://dsernst.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsernst/sieve-set/issues"
+  },
+  "homepage": "https://github.com/dsernst/sieve-set#readme"
+}
