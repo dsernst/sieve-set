@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/sieve-set.svg)](https://www.npmjs.com/package/sieve-set)
 
-Generate a Sieve of Eratosthenes with constant time lookup.
+Generate a Sieve of Eratosthenes with constant time lookup. For testing primes in constant time, see [quick-is-prime](https://github.com/dsernst/quick-is-prime).
 
 ## Install
 
