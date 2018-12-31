@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/dsernst/sieve-set#readme",
   "dependencies": {
-    "sieve-of-eratosthenes": "0.0.2"
+    "sieve-of-eratosthenes": "0.0.3"
   }
 }
