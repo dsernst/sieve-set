@@ -1,6 +1,6 @@
 {
   "name": "sieve-set",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a Sieve of Eratosthenes with constant time lookup",
   "main": "index.js",
   "scripts": {
